@@ -1,0 +1,70 @@
+ID,Pickup Date,Origin City,Origin State,Delivery City,Delivery State,Origin KMA,Delivery KMA,Lead Band,Miles,Customer Pay,RPM
+1961,2/15/2022,GRENADA                                           ,MS,PALATKA                                           ,FL,"JACKSON, MS","JACKSONVILLE, FL",4 Day +,630,3562.6,5
+34668,6/9/2023,COPPELL                                           ,TX,UXBRIDGE                                          ,MA,"DALLAS, TX","BOSTON, MA",4 Day +,1723,3562.97,1.97
+26827,3/6/2023,WALLER                                            ,TX,TAMPA                                             ,FL,"HOUSTON, TX","LAKELAND, FL",3 Day,1081,3564.45,2.8
+15421,9/21/2022,JONESBORO                                         ,AR,HIALEAH GARDENS                                   ,FL,"MEMPHIS, TN","MIAMI, FL",< 24 Hours,1026,3565,3.9
+15648,9/26/2022,JONESBORO                                         ,AR,MEDLEY                                            ,FL,"MEMPHIS, TN","MIAMI, FL",4 Day +,1028,3565,3.79
+37219,7/15/2023,SHERMAN                                           ,TX,MIAMI                                             ,FL,"DALLAS, TX","MIAMI, FL",4 Day +,1311,3565.82,2.22
+40278,8/18/2023,COPPELL                                           ,TX,SPARKS                                            ,NV,"DALLAS, TX","RENO, NV",3 Day,1642,3566.64,1.52
+9554,6/14/2022,CHILLICOTHE                                       ,OH,LONGVIEW                                          ,TX,"HUNTINGTON, WV","SHREVEPORT, LA",< 24 Hours,907,3568.28,2.54
+10339,6/27/2022,CHILLICOTHE                                       ,OH,LONGVIEW                                          ,TX,"HUNTINGTON, WV","SHREVEPORT, LA",2 Day,907,3568.28,2.76
+9646,6/15/2022,PITTSBURGH                                        ,PA,EAGLE PASS                                        ,TX,"PITTSBURGH, PA","LAREDO, TX",4 Day +,1582,3568.97,1.77
+9771,6/16/2022,PITTSBURGH                                        ,PA,EAGLE PASS                                        ,TX,"PITTSBURGH, PA","LAREDO, TX",1 Day,1582,3568.97,1.77
+10352,6/27/2022,PITTSBURGH                                        ,PA,EAGLE PASS                                        ,TX,"PITTSBURGH, PA","LAREDO, TX",3 Day,1582,3568.97,1.77
+10379,6/28/2022,PITTSBURGH                                        ,PA,EAGLE PASS                                        ,TX,"PITTSBURGH, PA","LAREDO, TX",4 Day +,1582,3568.97,1.83
+10522,6/30/2022,PITTSBURGH                                        ,PA,EAGLE PASS                                        ,TX,"PITTSBURGH, PA","LAREDO, TX",1 Day,1582,3568.97,1.77
+10683,7/5/2022,PITTSBURGH                                        ,PA,EAGLE PASS                                        ,TX,"PITTSBURGH, PA","LAREDO, TX",3 Day,1582,3568.97,1.83
+13091,8/15/2022,WEST NYACK                                        ,NY,ORLANDO                                           ,FL,"HARTFORD, CT","LAKELAND, FL",4 Day +,1098,3571.42,2.51
+14089,8/31/2022,WEST NYACK                                        ,NY,ORLANDO                                           ,FL,"HARTFORD, CT","LAKELAND, FL",2 Day,1098,3571.42,2.59
+25402,2/16/2023,COPPELL                                           ,TX,PITTSTON                                          ,PA,"DALLAS, TX","ALLENTOWN, PA",2 Day,1465,3573.77,2.05
+25405,2/16/2023,COPPELL                                           ,TX,PITTSTON                                          ,PA,"DALLAS, TX","ALLENTOWN, PA",2 Day,1465,3573.77,1.98
+24148,2/3/2023,ANDOVER                                           ,NJ,COPPELL                                           ,TX,"ELIZABETH, NJ","DALLAS, TX",< 24 Hours,1518,3575,2.04
+24157,2/3/2023,ANDOVER                                           ,NJ,COPPELL                                           ,TX,"ELIZABETH, NJ","DALLAS, TX",< 24 Hours,1518,3575,2.04
+24186,2/3/2023,ANDOVER                                           ,NJ,COPPELL                                           ,TX,"ELIZABETH, NJ","DALLAS, TX",< 24 Hours,1518,3575,2.04
+25421,2/17/2023,ANDOVER                                           ,NJ,COPPELL                                           ,TX,"ELIZABETH, NJ","DALLAS, TX",2 Day,1518,3575,1.91
+25431,2/17/2023,ANDOVER                                           ,NJ,COPPELL                                           ,TX,"ELIZABETH, NJ","DALLAS, TX",2 Day,1518,3575,1.91
+11987,7/27/2022,WEST MONROE                                       ,LA,STAUNTON                                          ,VA,"SHREVEPORT, LA","ROANOKE, VA",1 Day,942,3575.93,2.87
+15527,9/23/2022,GRANDVIEW                                         ,MO,CARSON                                            ,CA,"KANSAS CITY, MO","LOS ANGELES, CA",2 Day,1564,3579.27,2.08
+19919,12/7/2022,GRANDVIEW                                         ,MO,CARSON                                            ,CA,"KANSAS CITY, MO","LOS ANGELES, CA",1 Day,1564,3579.27,2.08
+128,1/10/2022,LOUISVILLE                                        ,KY,MANASSAS                                          ,VA,"LOUISVILLE, KY","ALEXANDRIA, VA",3 Day,551,3580,5.9
+12085,7/29/2022,CHICAGO                                           ,IL,EAGLE PASS                                        ,TX,"CHICAGO, IL","LAREDO, TX",< 24 Hours,1335,3582.04,2.25
+22060,1/10/2023,HUTCHINS                                          ,TX,PITTSTON                                          ,PA,"DALLAS, TX","ALLENTOWN, PA",< 24 Hours,1457,3584.58,2.2
+22175,1/11/2023,HUTCHINS                                          ,TX,PITTSTON                                          ,PA,"DALLAS, TX","ALLENTOWN, PA",1 Day,1457,3584.58,2.2
+22837,1/19/2023,HUTCHINS                                          ,TX,PITTSTON                                          ,PA,"DALLAS, TX","ALLENTOWN, PA",4 Day +,1457,3584.58,2.16
+16674,10/12/2022,WEST NYACK                                        ,NY,ORLANDO                                           ,FL,"HARTFORD, CT","LAKELAND, FL",4 Day +,1115,3584.85,2.51
+21959,1/10/2023,BAYTOWN                                           ,TX,STOCKTON                                          ,CA,"HOUSTON, TX","STOCKTON, CA",4 Day +,1867,3587.07,2.09
+5251,4/5/2022,GRENADA                                           ,MS,THE VILLAGES                                      ,FL,"JACKSON, MS","JACKSONVILLE, FL",4 Day +,659,3587.81,5.24
+22761,1/18/2023,COPPELL                                           ,TX,PITTSTON                                          ,PA,"DALLAS, TX","ALLENTOWN, PA",1 Day,1465,3588.42,2.18
+22878,1/19/2023,COPPELL                                           ,TX,PITTSTON                                          ,PA,"DALLAS, TX","ALLENTOWN, PA",1 Day,1465,3588.42,2.05
+22962,1/20/2023,COPPELL                                           ,TX,PITTSTON                                          ,PA,"DALLAS, TX","ALLENTOWN, PA",< 24 Hours,1465,3588.42,2.05
+23017,1/22/2023,COPPELL                                           ,TX,PITTSTON                                          ,PA,"DALLAS, TX","ALLENTOWN, PA",1 Day,1465,3588.42,2.25
+23423,1/26/2023,COPPELL                                           ,TX,PITTSTON                                          ,PA,"DALLAS, TX","ALLENTOWN, PA",< 24 Hours,1465,3588.42,2.12
+23459,1/26/2023,COPPELL                                           ,TX,PITTSTON                                          ,PA,"DALLAS, TX","ALLENTOWN, PA",< 24 Hours,1465,3588.42,2.05
+6582,4/22/2022,CHARLESTON                                        ,TN,SAN ANTONIO                                       ,TX,"CHATTANOOGA, TN","SAN ANTONIO, TX",4 Day +,1021,3590.11,2.15
+29623,4/7/2023,SHELBYVILLE                                       ,IL,OGDEN                                             ,UT,"TAYLORVILLE, IL","SALT LAKE CITY, UT",2 Day,1353,3591.52,2.07
+38498,7/31/2023,SHERMAN                                           ,TX,BURLINGTON                                        ,NJ,"DALLAS, TX","PHILADELPHIA, PA",4 Day +,1438,3591.93,1.81
+6744,4/25/2022,GRANDVIEW                                         ,MO,LOS ANGELES                                       ,CA,"KANSAS CITY, MO","LOS ANGELES, CA",2 Day,1555,3592.05,2.12
+7473,5/5/2022,LAWRENCEBURG                                      ,TN,ENFIELD                                           ,NC,"DECATUR, AL","RALEIGH, NC",2 Day,674,3592.28,2.97
+10128,6/22/2022,GRENADA                                           ,MS,PAMPA                                             ,TX,"JACKSON, MS","AMARILLO, TX",4 Day +,763,3592.92,3.47
+137,1/10/2022,GRENADA                                           ,MS,SUMTERVILLE                                       ,FL,"JACKSON, MS","LAKELAND, FL",2 Day,666,3593.76,5.26
+201,1/11/2022,GRENADA                                           ,MS,SUMTERVILLE                                       ,FL,"JACKSON, MS","LAKELAND, FL",3 Day,666,3593.76,5.11
+5092,4/4/2022,WINCHESTER                                        ,VA,HOUSTON                                           ,TX,"WINCHESTER, VA","HOUSTON, TX",4 Day +,1319,3594.54,2.35
+13011,8/15/2022,GRANDVIEW                                         ,MO,CARSON                                            ,CA,"KANSAS CITY, MO","LOS ANGELES, CA",2 Day,1566,3594.9,2.08
+15322,9/20/2022,GRANDVIEW                                         ,MO,CARSON                                            ,CA,"KANSAS CITY, MO","LOS ANGELES, CA",4 Day +,1564,3594.9,1.92
+20279,12/12/2022,JONESBORO                                         ,AR,RIVIERA BEACH                                     ,FL,"MEMPHIS, TN","MIAMI, FL",4 Day +,970,3596,3.3
+16575,10/11/2022,GRENADA                                           ,MS,LANCASTER                                         ,PA,"JACKSON, MS","HARRISBURG, PA",1 Day,1001,3596.35,2.8
+16581,10/11/2022,GRENADA                                           ,MS,LANCASTER                                         ,PA,"JACKSON, MS","HARRISBURG, PA",1 Day,1001,3596.35,2.8
+30280,4/14/2023,WALLER                                            ,TX,TAMPA                                             ,FL,"HOUSTON, TX","LAKELAND, FL",2 Day,1101,3596.51,2.8
+7581,5/6/2022,WATERLOO                                          ,WI,ELMWOOD                                           ,LA,"MADISON, WI","NEW ORLEANS, LA",4 Day +,1026,3597,3.07
+9397,6/10/2022,WATERLOO                                          ,WI,ELMWOOD                                           ,LA,"MADISON, WI","NEW ORLEANS, LA",3 Day,1026,3597,2.8
+10669,7/5/2022,WATERLOO                                          ,WI,ELMWOOD                                           ,LA,"MADISON, WI","NEW ORLEANS, LA",4 Day +,1026,3597,2.44
+11916,7/27/2022,WATERLOO                                          ,WI,ELMWOOD                                           ,LA,"MADISON, WI","NEW ORLEANS, LA",4 Day +,1026,3597,2.14
+35134,6/16/2023,GEORGETOWN                                        ,TX,SANTA BARBARA                                     ,CA,"AUSTIN, TX","FRESNO, CA",< 24 Hours,1556,3597,1.74
+40304,8/18/2023,BUENA PARK                                        ,CA,JACKSON                                           ,MS,"LOS ANGELES, CA","JACKSON, MS",1 Day,1761,3597.47,2.2
+2746,3/1/2022,ATLANTA                                           ,TX,TWINSBURG                                         ,OH,"TEXARKANA, TX","CLEVELAND, OH",3 Day,1004,3600,2.99
+6784,4/26/2022,ANDOVER                                           ,NJ,COPPELL                                           ,TX,"ELIZABETH, NJ","DALLAS, TX",3 Day,1518,3600,2.24
+6794,4/26/2022,ANDOVER                                           ,NJ,COPPELL                                           ,TX,"ELIZABETH, NJ","DALLAS, TX",3 Day,1529,3600,2.22
+8165,5/18/2022,ANDOVER                                           ,NJ,COPPELL                                           ,TX,"ELIZABETH, NJ","DALLAS, TX",< 24 Hours,1518,3600,1.91
+8265,5/19/2022,ANDOVER                                           ,NJ,COPPELL                                           ,TX,"ELIZABETH, NJ","DALLAS, TX",1 Day,1518,3600,1.98
+8435,5/23/2022,ANDOVER                                           ,NJ,COPPELL                                           ,TX,"ELIZABETH, NJ","DALLAS, TX",2 Day,1518,3600,1.98
+8468,5/24/2022,ANDOVER                                           ,NJ,COPPELL                                           ,TX,"ELIZABETH, NJ","DALLAS, TX",3 Day,1518,3600,1.98
